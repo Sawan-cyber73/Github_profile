@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Lucifer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20API%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
-# 👋 Hey, I'm Lucifer
+# 👋 Hey, I'm Sawan
 
 ### `Backend Engineer` • `API Developer` • `Software Developer`
 
