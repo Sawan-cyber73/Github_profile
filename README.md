@@ -58,7 +58,7 @@ I enjoy working with APIs, databases, authentication systems, server-side archit
 
 ```javascript
 
-const sawan = {
+const sawan = { ...}
 
     name: "Sawan",
 
